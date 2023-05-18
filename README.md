@@ -1,2 +1,2 @@
 # goal
-Go Algorithm Library  
+ GoAl - Go Algorithm Library  
