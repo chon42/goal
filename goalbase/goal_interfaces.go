@@ -1,5 +1,6 @@
 package goalbase
 
+
 import (
 	"reflect"
 )
@@ -112,5 +113,5 @@ type IMath interface {
 }
 
 type IMathBig interface {
-	Calc([]Instruction, []Index) ([]uint32, error)
+	Calc([]Instruction, []Index) ([]uint32, []Index,error)
 }
