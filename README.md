@@ -1,0 +1,2 @@
+# goal
+Go Algorithm Library  
