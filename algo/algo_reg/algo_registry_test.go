@@ -4,7 +4,7 @@ import "fmt"
 
 var reg = CentralRegistry
 
-func algo_reg_main() {
+func algo_reg_test() {
 
 	entry, ok := reg.AddRegEntry("test", "Central",
 		RegEntry{"test", "int", 1})
